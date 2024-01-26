@@ -1,5 +1,5 @@
 ## Project Title
-- **Students-Info-Portal-CURD-Operations-SpringBoot**
+- **Students-Info-Portal**
 
 ## Description
 - **This Project includes CURD Operations**
