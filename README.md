@@ -5,12 +5,12 @@
 - **This Project includes CURD Operations**
 
 ## Endpoints
-- **Intro "/welcome"**
-- **Insert Student Info to DB "/register"**
-- **Get Student Info By Id "/getStudentById/id"**
-- **Get All Students Data "/allStudents"**
-- **Update Student Info "/update/id"**
-- **Delete Student Info "/deleteStudentById/id"**
+- **Introduction Method-GET "/welcome"**
+- **Insert Student Info to DB Method-POST "/register"**
+- **Get Student Info By Id Method-GET "/getStudentById/id"**
+- **Get All Students Data Method-GET "/allStudents"**
+- **Update Student Info Method-PUT "/update/id"**
+- **Delete Student Info Method-DELETE "/deleteStudentById/id"**
 
 ## Code Editor
 - **VS Code**
